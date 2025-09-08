@@ -1,3 +1,3 @@
 httpx
-yt-dlp
+yt_dlp
 bilibili-api
