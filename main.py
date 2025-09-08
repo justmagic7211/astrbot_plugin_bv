@@ -2,7 +2,7 @@ import re
 import httpx
 import os
 import asyncio
-import yt_dlp
+import yt-dlp
 import hashlib
 import shutil
 from astrbot.api.event import filter, AstrMessageEvent
